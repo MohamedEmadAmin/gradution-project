@@ -1,0 +1,6 @@
+section div {
+  transition: transform 0.3s ease-in-out;
+}
+section div:hover {
+  transform: scale(1.05);
+}
